@@ -1,3 +1,9 @@
 title: "Rodrigo Jazinski"
 description: "CTO & Systems Architect | Executive Coach | Independent Researcher in Symbolic Systems"
 markdown: kramdown
+
+theme: null
+show_downloads: false
+
+github:
+  is_project_page: false
