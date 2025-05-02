@@ -39,6 +39,8 @@ My approach is systems-first, but grounded in human awareness. I work best with 
 
 ➡️ [Visit jznsk.com](https://www.jznsk.com)
 
+➡️ [LinkedIn](https://www.linkedin.com/in/jazinski/)
+
 ---
 
 ## Research
