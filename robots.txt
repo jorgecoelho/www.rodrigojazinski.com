@@ -1,0 +1,4 @@
+# robots.txt for www.rodrigojazinski.com
+
+User-agent: *
+Allow: /
