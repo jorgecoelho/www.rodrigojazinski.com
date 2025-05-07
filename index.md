@@ -53,6 +53,4 @@ This work is not institutional. It is personal, recursive, and grounded in a lif
 ➡️ [Explore Research at rdcj-research.com](https://www.rdcj-research.com)
 
 ---
-[![CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-
-_© 2025 Rodrigo Jazinski. All content under CC BY-NC-ND 4.0._
+_© 2025 R.D.C. Jazinski. All rights reserved._
