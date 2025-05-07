@@ -11,14 +11,8 @@ description: "CTO & Systems Architect | Executive Coach | Independent Researcher
 <link rel="manifest" href="site.webmanifest">
 <link rel="shortcut icon" href="favicon.ico">
 
-<!--
-<img src="portrait.jpg" alt="Rodrigo Jazinski portrait" width="200" style="border-radius: 8px; margin-bottom: 20px;" />
--->
-
 <!-- Rodrigo Jazinski - Full Profile Image -->
-<div align="center">
-  <img src="rodrigojazinski.jpg" alt="Rodrigo Jazinski" width="100%" alt="Rodrigo Jazinski - Portrait">
-</div>
+![image](rodrigojazinski.jpg)
 
 # Rodrigo Jazinski
 
