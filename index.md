@@ -34,7 +34,7 @@ In parallel, I lead an independent research initiative exploring [symbolic syste
 
 ## Coaching & Leadership
 
-[I work as a fractional CTO and executive coach](https://www.linkedin.com/in/jazinski/)—supporting high-growth teams, founders, and organisations in aligning vision with delivery.
+[I work as a CTO and executive coach](https://www.linkedin.com/in/jazinski/)—supporting high-growth teams, founders, and organisations in aligning vision with delivery.
 
 As a fractional CTO, I operate at the intersection of architecture, engineering, and product development. I help teams scale their platforms, design resilient systems, and make decisions that balance present demands with future flexibility. My technical guidance is grounded in decades of hands-on software experience—from early web platforms to complex infrastructure and data systems.
 
