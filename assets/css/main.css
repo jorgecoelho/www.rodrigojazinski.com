@@ -131,7 +131,10 @@ input, select, textarea {
 	}
 
 	p {
-		margin: 0 0 2em 0;
+		margin: 0 0 1.3em 0;
+		line-height: 1.4em;;
+		text-align: justify;
+		font-size: 1.2em;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -3127,7 +3130,7 @@ input, select, textarea {
 			}
 
 			h2 {
-				font-size: 1.2em;
+				font-size: 1.55em;
 			}
 
 			h3 {
@@ -3141,8 +3144,8 @@ input, select, textarea {
 			}
 
 			header.major h2 {
-				font-size: 1.35em;
-			}
+				font-size: 1.7em;
+			
 
 		/* List */
 
