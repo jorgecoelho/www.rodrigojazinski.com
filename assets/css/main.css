@@ -3008,9 +3008,9 @@ input, select, textarea {
 					font-size: 1.25em;
 				}
 
-					#header h1 br {
+					/* #header h1 br {
 						display: none;
-					}
+					} */
 
 				#header > .inner {
 					margin-bottom: 0;
